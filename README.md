@@ -3,11 +3,17 @@
 This repository is for sharing the source code of the robot challenge of IOOF. The source code is written in Java.
 
 To use the program, the following commands are available for you:
+
 PLACE X,Y,F (Place a robot)
+
 ROBOT <integer> (Change active robot)
+  
 MOVE (Move forward)
+  
 LEFT (Turn left)
+  
 RIGHT (Turn right)
+  
 REPORT (Show number of robots, active robot, and all the robots' positions)
   
 Commands will need to be input one by one and the program will inform you if your command was successfully conducted or not.
