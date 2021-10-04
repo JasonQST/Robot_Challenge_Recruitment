@@ -16,7 +16,7 @@ public class Main {
 		 System.out.println("MOVE (Move forward)");
 		 System.out.println("LEFT (Turn left)");
 		 System.out.println("RIGHT (Turn right)");
-		 System.out.println("REPORT (Show all the robots' position)");
+		 System.out.println("REPORT (Show all the robots' positions)");
 		 System.out.println();
 		 while(true) {
 			 System.out.print("Your command: ");
