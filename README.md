@@ -13,6 +13,7 @@ REPORT (Show number of robots, active robot, and all the robots' positions)
 Commands will need to be input one by one and the program will inform you if your command was successfully conducted or not.
   
 Here are two examples for your convenience to test the program.
+  
 
 Example 1 (Report Multiple Robots):
 
@@ -27,6 +28,7 @@ PLACE 2,1,SOUTH
 PLACE 6,6,EAST (Will not place)
   
 REPORT
+  
   
 Example 2 (Change Acitive Robots, Turning & Avoid Robot Moving Out of Scope):
 
