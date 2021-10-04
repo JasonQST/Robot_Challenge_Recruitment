@@ -15,6 +15,7 @@ Commands will need to be input one by one and the program will inform you if you
 Here are two examples for your convenience to test the program.
 
 Example 1 (Report Multiple Robots):
+
 PLACE 2,3,NORTH
 PLACE 4,2,WEST
 PLACE 5,3,EAST
@@ -22,6 +23,7 @@ PLACE 2,1,SOUTH
 REPORT
   
 Example 2 (Change Acitive Robots, Turning & Avoid Robot Moving Out of Scope):
+
 PLACE 2,3,EAST
 PLACE 4,2,NORTH
 MOVE
