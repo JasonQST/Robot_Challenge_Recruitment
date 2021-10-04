@@ -28,8 +28,7 @@ PLACE 2,1,SOUTH
 PLACE 6,6,EAST (Will not place)
   
 REPORT
-  
-  
+    
   
 Example 2 (Change Acitive Robots, Turning & Avoid Robot Moving Out of Scope):
 
